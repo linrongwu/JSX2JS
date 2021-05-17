@@ -1,0 +1,6 @@
+es5/
+es6/
+node_modules/
+.babelrc
+package.json
+package-lock.json
